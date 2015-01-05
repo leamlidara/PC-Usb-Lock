@@ -1,0 +1,7 @@
+pass, secu_q, Secu_an, pic_path
+
+setting: auto_start_up, min
+
+
+this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+ManagementObjectSearcher

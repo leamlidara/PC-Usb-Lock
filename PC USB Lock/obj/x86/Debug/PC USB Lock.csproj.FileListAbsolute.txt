@@ -1,0 +1,18 @@
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\bin\Debug\PC USB Lock.exe
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\bin\Debug\PC USB Lock.pdb
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\bin\Debug\Interop.IWshRuntimeLibrary.dll
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.Form1.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frm4getPass.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frmCreatePass.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frmLogin.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frmmsg_no_com.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frmMsg_no_Usb_Key.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frmPass_Chang.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frmSetting.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frmShow_all_Usb.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frmStartUp.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.frm_about.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC_USB_Lock.Properties.Resources.resources
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC USB Lock.csproj.GenerateResource.Cache
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC USB Lock.exe
+E:\C# for me\My_Lesson\My Project\PC USB Lock\PC USB Lock\obj\x86\Debug\PC USB Lock.pdb
